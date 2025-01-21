@@ -1,0 +1,48 @@
+Sylabus Course 3:  Data Storage in icrosfot azure for developers
+Course Syllabus
+In this course, you will learn the basics of storage management in Azure and how to create a Storage Account.
+
+Module 1: Data Storage in Microsoft Azure
+In this module, you will learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution. You will also learn how to create an Azure Storage account with the correct options for your business needs. After completing this module, you will be able to: 1) Choose the right model for the data you want to store in the cloud, 2) Create an Azure Storage account with the correct options for your business needs.
+
+Module 2:  Connect an App to Azure storage
+In this module, you will create a simple application and add configuration, client library references, and code to connect it to Azure Storage. After completing this module, you will be able to:  1) Create a simple application and add configuration, 2) create client library references, and 3) create code to connect it to Azure Storage. 
+
+Module 3:  Secure your Azure Storage account 
+In this module, you will learn how Azure Storage provides multilayered security to protect your data. You will find out how to use access keys, to secure networks, and to use Advanced Threat Protection to proactively monitor your system. After completing this module, you will be able to:  1) Use access keys to secure networks, and 2) use Advanced Threat Protection to proactively monitor your system.
+
+Module 4:  Store application data with Azure Blob storage 
+In this module, you will build an app that stores user files with Azure Blob storage. After completing this module, you will be able to:  1) Build an app that stores user files with Azure Blob storage.
+
+Module 5:  Practice exam on Store Data in Microsoft Azure
+In this module, you will take a practice exam that covers key skills measured in the Exam DP-203: Data Engineering on Microsoft Azure. After completing this module, you will be able to:  1) Prepare for the Microsoft Certified: Azure Data Engineer Associate exam.  
+
+Practical Exercises 
+This course includes practical exercises. We encourage you to complete these exercises. They help you gain further knowledge of Azure Data Storage solutions. Completing the exercises gives you a more practical understanding on how to explore Data Storage in Microsoft Azure. This hands-on approach will help you in your preparation for the DP 203: Data Engineering on Microsoft Azure 
+
+Microsoft account  
+You need a Microsoft account to sign into the Sandbox, the Azure portal, and other services. If you don't have an account, you can create one for free. The Learn Sandbox allows free, fixed-time access to a cloud subscription with no credit card required. Learners can safely explore, create, and manage resources without the fear of
+incurring costs or "breaking production".  
+
+VOIP unavailable for Microsoft account signup  
+A Voice-over-IP (VoiP) phone number cannot be used directly during the account phone verification process. Check that the phone you are using can receive calls and SMS messages from a United States-based telephone number.   
+
+Microsoft account SMS verification   
+The Microsoft account creation process may use SMS validation, sending a text message to your phone. If you do not have a phone to undergo verification, you can ask a family member or a friend to use their phone to complete this step. If you do not have any access to SMS text messaging you can phone 
+Microsoft support in your region
+. Microsoft support will be able to verify your account in real-time without needing SMS.  
+
+Troubleshoot your new account signup process  
+In most cases, the Azure account signup is a simple and trouble-free process. If you need more information on signing up for a new account in Azure portal or Azure account center, please visit the 
+Microsoft website - Troubleshoot new account sign up issues. 
+
+Clean-up  
+If you are using your own Azure subscription, it is recommended that that you follow the Clean Up instructions to stop compute resources after completing each lesson. When you're working in your own subscription, it's also a good idea at the end of a project to identify whether you still need the resources you created. Resources left running can cost you money. You can delete resources individually or delete the resource group to delete the entire set of resources.
+
+Note: If you decide not to complete this course, be sure to stop your compute instance. If you are using your existing Azure Subscription this will help to avoid incurring unnecessary charges.
+
+Continue your education
+Take a look at the 
+Microsoft certification pages 
+to learn more about certifications and paths.
+
