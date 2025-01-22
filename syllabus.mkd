@@ -1,4 +1,4 @@
-Sylabus Course 3:  Data Storage in icrosfot azure for developers
+Sylabus Course 3:  Data Storage in microsoft azure for developers
 Course Syllabus
 In this course, you will learn the basics of storage management in Azure and how to create a Storage Account.
 
